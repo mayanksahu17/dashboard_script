@@ -1,3 +1,11 @@
+
+function sayHii(){
+  console.log("hii script ");
+}
+
+sayHii();
+
+
 // <!-- The script manages the behavior of a sidebar navigation menu, user selection through checkboxes, and dynamically toggles the visibility of sections on a webpage. Here's a breakdown of its functionality: -->
   document.addEventListener("DOMContentLoaded", function () {
   const navLinks = document.querySelectorAll(".sidebar .nav-link");
