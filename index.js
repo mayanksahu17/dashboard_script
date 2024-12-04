@@ -1,5 +1,4 @@
 // <!-- The script manages the behavior of a sidebar navigation menu, user selection through checkboxes, and dynamically toggles the visibility of sections on a webpage. Here's a breakdown of its functionality: -->
-console.log("hii from script)
   document.addEventListener("DOMContentLoaded", function () {
   const navLinks = document.querySelectorAll(".sidebar .nav-link");
   const sections = {
